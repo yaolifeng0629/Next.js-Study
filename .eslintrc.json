@@ -1,0 +1,24 @@
+{
+    "extends": [
+        "next/core-web-vitals",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:prettier/recommended",
+        "eslint-config-prettier"
+    ],
+    "plugins": ["prettier"],
+    "rules": {
+        "@typescript-eslint/no-explicit-any": ["off"],
+        "@typescript-eslint/ban-ts-comment": "off",
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "@typescript-eslint/no-var-requires": "off",
+        "no-console": [
+            "warn",
+            {
+                "allow": ["warn", "error"]
+            }
+        ],
+        "no-debugger": "warn",
+        "no-unused-vars": "off",
+        "@typescript-eslint/no-unused-vars": "off"
+    }
+}
