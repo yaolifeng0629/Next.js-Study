@@ -1,6 +1,9 @@
-### Next.js Study Records
+## Next.js Study Records
 
--   https://www.nextjs.cn/docs/routing/introduction#dynamic-route-segments
+### Documents
+-   Next.js: https://www.nextjs.cn
+-   react-testing-library: https://testing-library.com/docs/react-testing-library/intro/
+-   testing-example: https://github.com/vercel/next.js/tree/canary/examples/with-vitest
 
 ---
 
